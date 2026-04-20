@@ -38,13 +38,11 @@ Integrated circuits (ICs) contain many electronic components fabricated on a sin
 
 Electronic components are available in different packages, such as through-hole and surface-mount devices (SMD). Each component has a specific symbol, number of terminals, polarity, and electrical value, which must be correctly identified before using it in a circuit.
 
-# OBSERVATION TABLE:
- 
+# OBSERVATION TABLE: 
 <img width="1443" height="121" alt="image" src="https://github.com/user-attachments/assets/4da90fe3-303e-4cb3-9841-c20de0b351b7" />
 
 
 # EXPECTED OUTPUT:
-
 <img width="1536" height="1024" alt="Basic electronic components overview" src="https://github.com/user-attachments/assets/b65b97e2-e11b-4733-8882-2edede653c0f" />
 <img width="1024" height="1536" alt="edt 1 2" src="https://github.com/user-attachments/assets/99a14ee7-1335-42d3-9f10-c6d1ed5d1461" />
 
